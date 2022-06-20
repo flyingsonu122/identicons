@@ -1,0 +1,46 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: "Montserrat", sans-serif;
+    color: #404142;
+    letter-spacing: 0.8px;
+    text-align: center;
+}
+
+h1 {
+    text-align: center;
+    background-color: rgba(190, 108, 228, 0.1);
+    text-transform: uppercase;
+}
+
+#imgurl {
+    font-size: 12px;
+}
+
+img {
+    max-width: 280px;
+}
+
+.form {
+    padding: 20px auto;
+    margin: auto;
+    max-width: 300px;
+}
+
+input {
+    display: block;
+    margin: 16px 0;
+    padding: 6px 10px;
+    width: 100%;
+    border: 1px solid #ddd;
+    font-family: "Roboto";
+}
+
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    margin-bottom: 10px;
+    text-align: center;
+}
